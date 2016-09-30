@@ -1,0 +1,16 @@
+*Coding Dojo* is a programming session based around a simple coding challenge. Programmers of different skill levels are invited to engage in deliberate practice as equals. The goal is to learn, teach and improve with fellow software developers in a non-competitive setting.
+
+*NOTE:*
+
+* This is a limited participant program of 15. So please if you have decided you are not coming RSVP No ASAP. This will help others. 
+
+* You may bring your laptop if you want. But we use limited system in this event. Please load your laptop with necessary tools to work on Scala (IDE, BuildTool, Testing etc.) 
+
+* No homework is required. Come with your Scala knowledge and learn more about it here by practice. 
+
+
+
+
+
+
+ 
