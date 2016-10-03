@@ -1,0 +1,43 @@
+:title: CodeRetreat
+
+**Coderetreat** is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away from the pressures of 'getting things done', the Coderetreat format has proven itself to be a highly effective means of skill improvement. Practicing the basic principles of modular and object-oriented design, developers can improve their ability to write code that minimizes the cost of change over time.
+
+For an in-depth understanding of the philosophy behind a day of Coderetreat, please watch this introduction video.
+
+video::18955165[vimeo]
+
+**Participation Process:**   
+
+1. If you like to participate in this full day event. Register yourselves in the online form
+
+2. After we get all the participating we filter and send you a confirmation mail.
+
+3. Reply back that you are going to attend. If you send us decline or not responding we hope you declined and we give seat to others.
+
+4. Come up with your laptop loaded with your known and/or to learn language + IDE + testing tool
+
+**FAQ:**
+
+**I am student can i join this session?**
+
+YES, all you going to do is basic core lanauge concept in the event.
+
+**What language i can try?**
+
+Any Language in this world from Java, .Net, Scala, etc to C, C++, Python etc.
+
+**What i am going to do?**
+
+Do not worry now, Just attend and see what you learn and the end of the day.
+
+**What is this event all about?**
+
+Software Craftsmanship!. We all have learnt many framework, tools, API etc but we have never mastered the tool we use! This is the place to text your skill of fundamentals of the language
+
+**Fundamentals of language? I am professional i have XX experience, what i will learn out of this?**
+
+You will learn what you have not learnt so far!
+
+**How best i can use this event?**
+
+If you have not learned any new language say Scala etc this is the time. We still have a month to go so take time and learn some basic of language like Scala or anything you like. Come to the event and work with others you learn more!
