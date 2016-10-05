@@ -1,0 +1,14 @@
+Agenda:
+
+* Meet & Greet
+* Session 1
+* Session 2
+* Open Space Discussion
+
+What is this meetup?
+
+This is our first meetup. We introduce each other and share our idea on how to move forward with the vision and mission of HyScala Community.
+
+Prerequisite:
+
+There is no prerequisite for this meeting. Anyone how is interested in Scala or java based functional or JVM language can join this meetup. If you don't have any idea about this community can participate. 
