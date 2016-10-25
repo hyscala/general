@@ -1,15 +1,9 @@
-<<<<<<< HEAD
 :title: HyScala Code of Conduct
+:author: Rajmahendra Hegde
 :email: info@hyscala.com
 :revdate: 29-Sep-2016
 :revnumber: 1.0
 == {title} v{revnumber}
-=======
-:title: HyScala the Code of Conduct
-:author: Rajmahendra Hegde
-:revdate: September 25, 2016
-:revnumber: 1.0 Draft
->>>>>>> f4a2adbefb38fe4078272dc16b92d907881781f3
 
 This code of conduct outlines our expectations for participants within the *Hyderabad Scala Community _[HyScala]_* community, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
 
