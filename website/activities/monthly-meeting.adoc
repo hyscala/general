@@ -1,14 +1,23 @@
 Agenda:
 
 * Meet & Greet
-* Session 1
-* Session 2
+* Talk 1
+* Break
+* Talk 2
 * Open Space Discussion
 
 What is this meetup?
 
-This is our first meetup. We introduce each other and share our idea on how to move forward with the vision and mission of HyScala Community.
+Monthly meeting is a pre booked platform for sharing what we know or learn. Its open for all members to give talk on scala based technologies. All members are encouraged to use this platform to share there experience on there favorite topics.
+
+What topics are allowed
+The community is open for following topics
+
+* Scala and related technology/framework etc
+* JVM Langauge mostly functional style
+* Reactive Frameworks
+* Miscellaneous: Java and related, Big Data, Cloud, Web, HTML5 etc.
 
 Prerequisite:
 
-There is no prerequisite for this meeting. Anyone how is interested in Scala or java based functional or JVM language can join this meetup. If you don't have any idea about this community can participate. 
+There is no prerequisite for this meeting. Anyone how is interested in Scala or java based functional or JVM language can join this meetup. If you don't have any idea about this community can participate.
