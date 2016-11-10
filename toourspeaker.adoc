@@ -1,0 +1,16 @@
+:title: Speakers Guideline
+:author: Rajmahendra Hegde
+:email: info@hyscala.com
+
+== {title}
+
+*HyScala* always need speakers to their Monthly, OpenSpace or any conference. Speaking in a meetup is oneway to contribute to the community by sharing your knowledge, experience. Apart from that its a platform for you to improve in talking in crowd or to test your prepared presentation.
+
+In HyScala, anyone can be speaker! You no need to be a speaker of a big conference or author is be well verse in English. All you need is the interest to share and time to do preparation for your presentation.
+
+Our community mainly focusing on following topics
+
+* *Scala and related technology* _like Scala Language,Akka, SBT,Lift etc_
+* *JVM Language and Functional Languages* _like Groovy, Clojure, Hascal, Frege etc_
+* *Reactive Frameworks* _anything that follows Reactive Manifesto_
+* *Miscellaneous* _anything a Scala developer uses in his day to day life_
