@@ -1,4 +1,4 @@
-:title: Speaker's Guideline
+:title: Speaker Guidelines
 :author: Rajmahendra Hegde
 :email: info@hyscala.com
 
@@ -22,12 +22,13 @@ Our community mainly focusing on following topics
 * Anyone can give a talk in the meetup, first check the meetup site for open slots
 * If you like to give a talk you can post your CfP @ link:https://docs.google.com/forms/d/1VYdOSnxQLPHFqGg-T7TVav5pbgBKUcYE4jh9XKKHTBg/edit[HyScala Call for Paper]
 ** You can post any number of topics
-** If you have posted wrontgly, you can update it any time. Try to avoid frequent updates
+** If you have posted your CfP wrontgly, you can update it any time. Try to avoid frequent updates
 ** If you have not updated you presentation yet upload to sites like slideshare
 * Based on the dates and availability of the slots you will be contacted and fix a date for your talk
 * Try to be ready with you preparation and slides ready at least 2 days before the meetup
 * Feel free to ask help from the core members any time
-* Once your talk is selected and you are sure you cant give a talk, you have to intimate this 1 week prior.
+
+IMPORTANT: If you want to postponed or unable to give a session, please intimate us 1 day prior, try to avoid last time cancellation.
 
 === Some Presentation guideline:
 
