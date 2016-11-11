@@ -1,0 +1,37 @@
+:title: Speaker's Guideline
+:author: Rajmahendra Hegde
+:email: info@hyscala.com
+
+== {title}
+
+*HyScala* always need speakers to their Monthly, OpenSpace or any conference. Speaking in a meetup is oneway to contribute to the community by sharing your knowledge, experience. Apart from that its a platform for you to improve in talking in crowd or to test your prepared presentation.
+
+In HyScala, anyone can be speaker! You no need to be a speaker of a big conference or author is be well verse in English. All you need is the interest to share and time to do preparation for your presentation.
+
+Our community mainly focusing on following topics
+
+=== Topics
+
+* *Scala and related technology* _like Scala Language,Akka, SBT,Lift etc_
+* *JVM Language and Functional Languages* _like Groovy, Clojure, Hascal, Frege etc_
+* *Reactive Frameworks* _anything that follows Reactive Manifesto_
+* *Miscellaneous* _anything a Scala developer uses in his day to day life_
+
+=== General Rules:
+
+* Anyone can give a talk in the meetup, first check the meetup site for open slots
+* If you like to give a talk you can post your CfP @ link:https://docs.google.com/forms/d/1VYdOSnxQLPHFqGg-T7TVav5pbgBKUcYE4jh9XKKHTBg/edit[HyScala Call for Paper]
+** You can post any number of topics
+** If you have posted wrontgly, you can update it any time. Try to avoid frequent updates
+** If you have not updated you presentation yet upload to sites like slideshare
+* Based on the dates and availability of the slots you will be contacted and fix a date for your talk
+* Try to be ready with you preparation and slides ready at least 2 days before the meetup
+* Feel free to ask help from the core members any time
+* Once your talk is selected and you are sure you cant give a talk, you have to intimate this 1 week prior.
+
+=== Some Presentation guideline:
+
+* Our audience is very much concern about Quality over Quantity
+* You no need to make your presentation professional or sexy,  all you need to present is some basic points and some images if needed
+* Keep the font size at least 24px so all can see it
+* avoid contrast colors a simple mono colour gives
