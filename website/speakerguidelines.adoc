@@ -28,6 +28,7 @@ Our community mainly focusing on following topics
 * Try to be ready with you preparation and slides ready at least 2 days before the meetup
 * Feel free to ask help from the core members any time
 
+[alert alert-success]
 IMPORTANT: If you want to postponed or unable to give a session, please intimate us 1 day prior, try to avoid last time cancellation.
 
 === Some Presentation guideline:
