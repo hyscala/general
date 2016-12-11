@@ -12,6 +12,7 @@ tags = "Akka"
 Akka is a free and open-source toolkit and runtime simplifying the construction of concurrent and distributed applications on the JVM.
 
 **Agile**
+
 * What makes us to consider Actor Model
 * Understanding Actor model of programming
 * Introducing to Akka
