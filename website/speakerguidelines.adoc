@@ -28,8 +28,10 @@ Our community mainly focusing on following topics
 * Try to be ready with you preparation and slides ready at least 2 days before the meetup
 * Feel free to ask help from the core members any time
 
-[alert alert-success]#**Important:** If you want to postponed or unable to give a session, please intimate us 1 week prior, try to avoid late cancellation.#
+=== Important:
 
+* If you want to postponed or unable to give a session, please intimate us 2 week prior, try to avoid late cancellation.
+* Try to be present in venue before the start of the meetup. This will help you to get prepared.
 
 === Some Presentation guideline:
 
@@ -37,3 +39,9 @@ Our community mainly focusing on following topics
 * You no need to make your presentation professional or sexy,  all you need to present is some basic points and some images if needed
 * Keep the font size at least 24px so all can see it
 * avoid contrast colors a simple mono colour gives
+
+== Post-Session:
+
+* Once the conference is got over share us the folloing things to post in our community Taslk page
+** Presentation - We use SlideShare, you can share us url of your Presentation
+** Code- add your code to Github Gist and send us the url
