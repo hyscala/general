@@ -4,44 +4,43 @@
 
 == {title}
 
-*HyScala* always need speakers to their Monthly, OpenSpace or any conference. Speaking in a meetup is oneway to contribute to the community by sharing your knowledge, experience. Apart from that its a platform for you to improve in talking in crowd or to test your prepared presentation.
+*HyScala* always need speakers for their Monthly, OpenSpace and any conference, Speaking in a meetup is oneway to contribute to the community by sharing your knowledge and experience. Apart from that, it's also a platform for you, as a speaker, to improve talking in front of a group or to test out your prepared presentations.
 
-In HyScala, anyone can be speaker! You no need to be a speaker of a big conference or author is be well verse in English. All you need is the interest to share and time to do preparation for your presentation.
+At HyScala, anyone can be a speaker! You don't need to be a speaker at a big conference or an author or be well verse in English. All you need is the interest to share and the time to prepare for your presentation.
 
 Our community mainly focusing on following topics
 
 === Topics
 
-* *Scala and related technology* _like Scala Language,Akka, SBT,Lift etc_
+* *Scala and related technology* _like Scala Language, Akka, SBT, Lift, etc._
 * *JVM Language and Functional Languages* _like Groovy, Clojure, Hascal, Frege etc_
-* *Reactive Frameworks* _anything that follows Reactive Manifesto_
-* *Miscellaneous* _anything a Scala developer uses in his day to day life_
+* *Reactive Frameworks* _anything that follows the Reactive Manifesto_
+* *Miscellaneous* _anything a Scala developer uses in day to day life_
 
 === General Rules:
 
-* Anyone can give a talk in the meetup, first check the meetup site for open slots
-* If you like to give a talk you can post your CfP @ link:https://docs.google.com/forms/d/1VYdOSnxQLPHFqGg-T7TVav5pbgBKUcYE4jh9XKKHTBg/edit[HyScala Call for Paper]
+* Anyone can give a talk at the meetup
+* If you like to give a talk you can post your talk details at link:https://docs.google.com/forms/d/1VYdOSnxQLPHFqGg-T7TVav5pbgBKUcYE4jh9XKKHTBg/edit[HyScala Call for Paper]
 ** You can post any number of topics
-** If you have posted your CfP wrontgly, you can update it any time. Try to avoid frequent updates
-** If you have not updated you presentation yet upload to sites like slideshare
-* Based on the dates and availability of the slots you will be contacted and fix a date for your talk
-* Try to be ready with you preparation and slides ready at least 2 days before the meetup
-* Feel free to ask help from the core members any time
+** You may update the details you have posted at any time
+* Based on the dates availability, you will be contacted and a date for your talk will be fixed
+* Please try to be ready with you preparation and slides at least 2 days before the meetup
+* Please do not hesitate to ask for any help from the core members of the group at any time
 
 === Important:
 
-* If you want to postponed or unable to give a session, please intimate us 2 week prior, try to avoid late cancellation.
-* Try to be present in venue before the start of the meetup. This will help you to get prepared.
+* If you want to postponed or are unable to give a session, please intimate us at least 2 weeks prior to the presentation date
+* Please try to be at the venue at least 30 minutes before the start of the meetup. This will help you to set up and get prepared
 
 === Some Presentation guideline:
 
-* Our audience is very much concern about Quality over Quantity
-* You no need to make your presentation professional or sexy,  all you need to present is some basic points and some images if needed
+* Our audience is much concerened about Quality over Quantity
+* You don't have to make your presentation top notch or fancy,  all you need is to convey your ideas and what you care to share with the audience
 * Keep the font size at least 24px so all can see it
-* avoid contrast colors a simple mono colour gives
+* avoid contrasting colors, a simple mono colour is better
 
 == Post-Session:
 
-* Once the conference is got over share us the folloing things to post in our community Taslk page
-** Presentation - We use SlideShare, you can share us url of your Presentation
-** Code- add your code to Github Gist and send us the url
+* Once your presentation is over share the following things at the community Talks page
+** Presentation - We use SlideShare, you can share with us the URL of your Presentation
+** Code- add your code to Github Gist and send us the URL
