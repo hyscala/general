@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <hyscala>
-  <general>
-  <speaker id="151036632" >
+  <speakers>
+  <speaker id="151036632" type="0">
     <name>Jatin Puri</name>
     <bio></bio>
     <social twitter="purijatin7" linkedin="" github="" blog="" website="" email=""/>
@@ -9,7 +9,7 @@
     </meetups>
   </speaker>
 
-  <speaker id="2528366" >
+  <speaker id="2528366" type="0" >
     <name>Rajmahendra Hegde</name>
     <bio></bio>
     <social twitter="rajonjava" linkedin="rajmahendra.hegde" github="rajmahendra" blog="" website="" email=""/>
@@ -17,9 +17,7 @@
     </meetups>
   </speaker>
 
-</general>
-<expert>
-  <speaker id="101" >
+  <speaker id="101" type="1" >
     <name>Dr. Venkat Subramaniam</name>
     <bio>Dr. Venkat Subramaniam is an award-winning author, founder of Agile Developer, Inc., creator of agilelearner.com, and an instructional professor at the University of Houston.He has trained and mentored thousands of software developers in the US, Canada, Europe, and Asia, and is a regularly-invited speaker at several international conferences. Venkat helps his clients effectively apply and succeed with sustainable agile practices on their software projects.
 Venkat is a (co)author of multiple technical books, including the 2007 Jolt Productivity award-winning book Practices of an Agile Developer. You can find a list of his books at agiledeveloper.com. You can reach him by email at venkats@agiledeveloper.com or on twitter at @venkat_s</bio>
@@ -27,5 +25,5 @@ Venkat is a (co)author of multiple technical books, including the 2007 Jolt Prod
     <meetups>
     </meetups>
   </speaker>
-</expert>
+</speakers>
 </hyscala>
