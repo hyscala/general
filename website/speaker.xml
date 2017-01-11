@@ -1,29 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <hyscala>
-  <speakers>
-  <speaker id="151036632" type="0">
+  <speaker>
+  <id>151036632</id>
+  <type>0</type>
     <name>Jatin Puri</name>
     <bio></bio>
-    <social twitter="purijatin7" linkedin="" github="" blog="" website="" email=""/>
+    <twitter>purijatin7</twitter>
+<linkedin></linkedin>
+<github></github>
+<blog></blog>
+<email></email>
     <meetups>
     </meetups>
   </speaker>
 
-  <speaker id="2528366" type="0" >
+  <speaker >
+   <id>2528366</id>
+  <type>0</type>
     <name>Rajmahendra Hegde</name>
     <bio></bio>
-    <social twitter="rajonjava" linkedin="rajmahendra.hegde" github="rajmahendra" blog="" website="" email=""/>
+	 <twitter>rajonjava</twitter>
+<linkedin>rajmahendra.hegde</linkedin>
+<github>rajmahendra</github>
+<blog></blog>
+<email></email>
+   
     <meetups>
     </meetups>
   </speaker>
 
-  <speaker id="101" type="1" >
+  <speaker >
+   <id>101</id>
+  <type>1</type>
     <name>Dr. Venkat Subramaniam</name>
     <bio>Dr. Venkat Subramaniam is an award-winning author, founder of Agile Developer, Inc., creator of agilelearner.com, and an instructional professor at the University of Houston.He has trained and mentored thousands of software developers in the US, Canada, Europe, and Asia, and is a regularly-invited speaker at several international conferences. Venkat helps his clients effectively apply and succeed with sustainable agile practices on their software projects.
 Venkat is a (co)author of multiple technical books, including the 2007 Jolt Productivity award-winning book Practices of an Agile Developer. You can find a list of his books at agiledeveloper.com. You can reach him by email at venkats@agiledeveloper.com or on twitter at @venkat_s</bio>
-    <social twitter="venkat_s" linkedin="" github="" blog="http://www.agiledeveloper.com" website="http://www.agiledeveloper.com" email="venkats@agiledeveloper.com"/>
+ <twitter>venkat_s</twitter>
+<linkedin></linkedin>
+<github></github>
+<blog>http://www.agiledeveloper.com</blog>
+<email>venkats@agiledeveloper.com</email>
+   
     <meetups>
     </meetups>
   </speaker>
-</speakers>
 </hyscala>
