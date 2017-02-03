@@ -1,0 +1,97 @@
+= HyScala General Contributing Guide
+
+If you like to contribute to any of HyScala community project, follow these document.
+
+== Prerequisites
+
+* To contribute to any HyScala project you must need GitHub Account
+
+== Git & Github Help
+
+* https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf[Github Git CheatSheet]
+* https://try.github.io/levels/1/challenges/1[Try Git commands]
+* https://git-scm.com/book/en/v2[Pro Git]
+* https://git-scm.com/download[Download Git]
+* https://help.github.com[Github Help]
+
+NOTE: Many of Java/Scala IDE do support Git, you can use it for GitHub as well.
+
+Please read README page of any project to know the Prerequisits of the project
+
+== Sourcecode Repo
+
+All project in HyScala uses GitHub as source repository. Our Github Orgizatoin is http://github.hyscala.in
+
+ 
+
+== GitHub WorkFlow
+
+HyScala follows the below Git Workflow. This is mandetory. 
+
+* To contribute to any project first you have to `fork` the repositor 
+
+* `clone` your project locally by 
+
+     git clone git@github.com:<your-username>/<projectname>.git
+
+
+* Add the primary project of your fork project as `upstream` repository 
+
+     git remote add upstream git@github.com:forge/core.git
+     
+* When ever you start coding pull the latest code from upstream
+
+     git fetch upstream <master>
+     
+* When you work on any Issue createing in a project, first create a branch on the issue name by pulling the current code
+
+     git checkout -b <Repoid>-<issueid> upstream/master
+     
+* When you add the changes to staging, try to group the changes in a meaningful way
+
+     git add <filename>
+
+* When commit use the IssueID and commit
+
+     git commit -m '<repoid>-<issueid>: <proper change description>'
+     
+* Once all your changes are groped as commits. Send a pull request from your IDE or from your forked repo
+
+
+=== Thinks to keep in mind
+
+* Provide meaningful and proper description
+* In any of your review discussion in github do not write mail  e.
+
+Instead of...
+
+---
+
+Dear Kumar
+
+this function is added because it is important
+
+Thank you
+Suresh
+
+---
+
+type...
+
+---
+
+This function is added because .... 
+
+---
+
+* Use plain english. no need to write like a Shakespeare :)
+* Give a day or two for the repo owners to review and provide feedback 
+* feedback discussion all will be discussed only in github PullRequest
+* Once all changes/review done, your code will be accepted. 
+
+
+=== License
+
+License will be available in each project. 
+
+
